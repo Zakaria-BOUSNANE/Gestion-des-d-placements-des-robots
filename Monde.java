@@ -1,5 +1,6 @@
 public class Monde {
-    private int nbL;
+    private int nbL; 
+    private int test;
     private int nbC;
     private boolean [][] Mat;
 

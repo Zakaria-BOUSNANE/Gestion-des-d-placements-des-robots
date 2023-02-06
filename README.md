@@ -5,5 +5,13 @@
 <br>
 ## Screenshots
 
+<img src="/pict1.PNG" width=70% height=70%>
+<img src="/pict2.PNG" width=70% height=70%>
+
+### *This project is undergoing improvement, please feel free to report any issues and suggest ways to enhance it.* <br>
+### Thank you !!
+
+
+
 
 

@@ -2,7 +2,7 @@
 *A very basic  robot movements application created with Java Swing/AWT*. <br>
  *This application aims to create a robot capable of dynamically and statically coloring and cleaning rectangular grids* <br>
 <br>
-<br>
+<br> 
 ## Screenshots
 
 <img src="/pict1.PNG" width=70% height=70%>
